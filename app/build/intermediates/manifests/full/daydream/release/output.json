@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0-daydream","enabled":true,"outputFile":"sxr-tutorial-lesson6.apk","fullName":"daydreamRelease","baseName":"daydream-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.samsungxr.balloons.daydream","split":"","minSdkVersion":"23"}}]

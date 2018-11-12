@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/incremental/mergeDaydreamDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sdk-common-1.130.0.aar/341e56d32081ed39ef81d620cee3a5aa/res/values-v21/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "147",
+                        "endLines": "5",
+                        "endColumns": "8",
+                        "endOffsets": "237"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "145"
+                    }
+                }
+            ]
+        }
+    ]
+}

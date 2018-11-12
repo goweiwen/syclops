@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/incremental/mergeArDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/0ec3c2280fa0cbf8ca40709cf5c5c6f5/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,5,7,8,9,10,11,12,13,14,15,16,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,209,311,371,424,481,529,581,629,712,756,802,1093",
+                        "endLines": "2,5,7,8,9,10,11,12,13,14,15,22,31",
+                        "endColumns": "39,52,59,52,56,47,51,47,82,43,45,12,12",
+                        "endOffsets": "90,257,366,419,476,524,576,624,707,751,797,1088,1654"
+                    },
+                    "to": {
+                        "startLines": "2,5,7,8,9,10,11,12,13,14,15,16,23",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,209,344,404,457,514,562,614,662,745,789,835,1126",
+                        "endLines": "2,5,7,8,9,10,11,12,13,14,15,22,31",
+                        "endColumns": "39,52,59,52,56,47,51,47,82,43,45,12,12",
+                        "endOffsets": "90,257,399,452,509,557,609,657,740,784,830,1121,1687"
+                    }
+                },
+                {
+                    "source": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "708,766",
+                        "endColumns": "57,55",
+                        "endOffsets": "761,817"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "95,153",
+                        "endColumns": "57,55",
+                        "endOffsets": "148,204"
+                    }
+                },
+                {
+                    "source": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/generated/res/resValues/ar/debug/values/generated.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endColumns": "81",
+                        "endOffsets": "235"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "262",
+                        "endColumns": "81",
+                        "endOffsets": "339"
+                    }
+                }
+            ]
+        }
+    ]
+}

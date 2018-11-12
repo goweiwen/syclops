@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0-ar","enabled":true,"outputFile":"sxr-tutorial-lesson6.apk","fullName":"arDebug","baseName":"ar-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.samsungxr.balloons.ar","split":"","minSdkVersion":"23"}}]

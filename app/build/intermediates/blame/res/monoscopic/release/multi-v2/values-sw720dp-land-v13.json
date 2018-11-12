@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/incremental/mergeMonoscopicReleaseResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/res/values-sw720dp-land/dimens.xml",
+                    "from": {
+                        "startLines": "23",
+                        "startColumns": "4",
+                        "startOffsets": "819",
+                        "endColumns": "58",
+                        "endOffsets": "873"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

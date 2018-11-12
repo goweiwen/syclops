@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:18:1-40:12
+MERGED from [org.joml:joml-android:1.9.3-SNAPSHOT] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/joml-android-1.9.3-SNAPSHOT.aar/342a44e8ebee740c280fde297d3e8c06/AndroidManifest.xml:2:1-11:12
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:18:1-41:12
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:1-46:12
+	package
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:20:5-37
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:19:5-51
+	xmlns:android
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:21:5-28
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:24:5-80
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:32:5-80
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:32:5-80
+	android:name
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:24:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:25:22-76
+application
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:28:5-44:19
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:37:5-38:19
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:37:5-38:19
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:36:5-39:19
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:36:5-39:19
+	android:label
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:31:9-41
+	android:largeHeap
+		ADDED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:37:9-33
+	android:icon
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:30:9-38
+	android:allowBackup
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:38:9-44
+activity#com.samsungxr.balloons.BalloonActivity
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:33:9-43:20
+	android:screenOrientation
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:35:13-50
+	android:label
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:37:13-45
+	android:launchMode
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:34:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:23:5-25:41
+MERGED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:23:5-25:41
+MERGED from [org.joml:joml-android:1.9.3-SNAPSHOT] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/joml-android-1.9.3-SNAPSHOT.aar/342a44e8ebee740c280fde297d3e8c06/AndroidManifest.xml:7:5-9:41
+MERGED from [org.joml:joml-android:1.9.3-SNAPSHOT] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/joml-android-1.9.3-SNAPSHOT.aar/342a44e8ebee740c280fde297d3e8c06/AndroidManifest.xml:7:5-9:41
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:23:5-25:41
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:23:5-25:41
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		ADDED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:27:5-29:35
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:32:5-34:35
+MERGED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:32:5-34:35
+	android:glEsVersion
+		ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:28:9-41
+	android:required
+		ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:29:9-32
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:33:22-78
+uses-permission#android.permission.INTERNET
+ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:35:5-67
+	android:name
+		ADDED from [:sxr_adapter-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxr_adapter-release.aar/47493b6f33ce66c6d060e261c974fab9/AndroidManifest.xml:35:22-64
+uses-permission#com.samsung.android.hmt.permission.READ_SETTINGS
+ADDED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:30:5-88
+	android:name
+		ADDED from [:sxrsdk-release:] /Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-release.aar/beab267bcd06a248ae556aaca5050d0b/AndroidManifest.xml:30:22-85

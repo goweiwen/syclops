@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0-oculus","enabled":true,"outputFile":"sxr-tutorial-lesson6.apk","fullName":"oculusRelease","baseName":"oculus-release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.samsungxr.balloons.oculus","split":"","minSdkVersion":"23"}}]

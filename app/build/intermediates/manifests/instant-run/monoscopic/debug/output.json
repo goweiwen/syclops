@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"1.0-monoscopic","enabled":true,"outputFile":"sxr-tutorial-lesson6.apk","fullName":"monoscopicDebug","baseName":"monoscopic-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.samsungxr.balloons.monoscopic","split":"","minSdkVersion":"23"}}]

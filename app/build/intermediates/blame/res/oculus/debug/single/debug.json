@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_oes_convolution_vert.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/oes_convolution_vert.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_color_shader_vert.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/color_shader_vert.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xhdpi-v4_zero_px_transparent.xml.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-xhdpi-v4/zero_px_transparent.xml"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_cubemap_reflection_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/cubemap_reflection_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xhdpi-v4_brdflookup.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-xhdpi-v4/brdflookup.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_oes_vertical_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/oes_vertical_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_unlit_vertical_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/unlit_vertical_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_depth_shader.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/depth_shader.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vertexmorph.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vertexmorph.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_ext_tex_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/ext_tex_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_inverted_colors_fragment.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/inverted_colors_fragment.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_gear_vr_controller.obj.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/gear_vr_controller.obj"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vertexskinning.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vertexskinning.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pos_tex_ubo.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pos_tex_ubo.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xxxhdpi_headtrackingpointer.png.flat",
+        "source": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/res/drawable-xxxhdpi/headtrackingpointer.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_directshadowlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/directshadowlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_inverted_colors_vertex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/inverted_colors_vertex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xxxhdpi_icon.png.flat",
+        "source": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/res/drawable-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_spotlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/spotlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_posteffect_quad.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/posteffect_quad.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_addlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/addlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_lycksele3.zip.flat",
+        "source": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/src/main/res/raw/lycksele3.zip"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xhdpi-v4_white_texture.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-xhdpi-v4/white_texture.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_directlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/directlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_horz_flip_tex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/horz_flip_tex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_hud_console.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/hud_console.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_spotshadowlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/spotshadowlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pos_only.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pos_only.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_oes_horizontal_stereo_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/oes_horizontal_stereo_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_unlit_horizontal_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/unlit_horizontal_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_normalmap.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/normalmap.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pbr_addlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pbr_addlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vertex_template_multitex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vertex_template_multitex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pos_norm_tex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pos_norm_tex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xhdpi-v4_cursor.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-xhdpi-v4/cursor.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/menu_main.xml.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_cubemap_reflection_vert.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/cubemap_reflection_vert.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vert_flip_tex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vert_flip_tex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/layout_activity_main.xml.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_texture_surface.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/texture_surface.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_yuv_nv21_to_rgb.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/yuv_nv21_to_rgb.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_cubemap_vert.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/cubemap_vert.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_color_shader_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/color_shader_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_oes_convolution_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/oes_convolution_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pos_ubo.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pos_ubo.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pos_norm_multitex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pos_norm_multitex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pointlight.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pointlight.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_phong_surface_layertex.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/phong_surface_layertex.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_cubemap_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/cubemap_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_color_blend_vert.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/color_blend_vert.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/drawable-xhdpi-v4___default_splash_screen__.png.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/drawable-xhdpi-v4/__default_splash_screen__.png"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vertex_shadow.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vertex_shadow.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_phong_surface_multitex.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/phong_surface_multitex.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_fragment_template.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/fragment_template.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vcolor_vertex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vcolor_vertex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_unlit_tex_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/unlit_tex_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vertex_template_depth.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vertex_template_depth.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_phong_surface.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/phong_surface.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_color_blend_frag.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/color_blend_frag.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vertex_template.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vertex_template.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_unlit_flip_tex.vsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/unlit_flip_tex.vsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_fragment_template_multitex.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/fragment_template_multitex.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_vcolor_fragment.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/vcolor_fragment.fsh"
+    },
+    {
+        "merged": "/Users/weiwen.goh/svvr/sxrsdk-demos/sxr-tutorial-lesson6/app/build/intermediates/res/merged/oculus/debug/raw_pbr_surface.fsh.flat",
+        "source": "/Users/weiwen.goh/.gradle/caches/transforms-1/files-1.1/sxrsdk-debug.aar/a7fbfcc63c61783a7e8b5e3c0566101f/res/raw/pbr_surface.fsh"
+    }
+]
